@@ -8,11 +8,16 @@
 import requests
 import xml.etree.ElementTree as ET
 
-userData = {'routeShortName': 'HWDB', 'stopCode': '1114'}
-r = requests.post("http://216.252.195.248/webservices/bt4u_webservice.asmx/GetNextDepartures", data=userData)
-root = ET.fromstring(r.text)
+# Next bus function
+def getNextBus(numBuses, routeName, stopCode):
+    userData = {'routeShortName': routeName, 'stopCode': stopCode}
+    r = requests.post("http://216.252.195.248/webservices/bt4u_webservice.asmx/GetNextDepartures", data=userData)
+    root = ET.fromstring(r.text)
+    buslist = []
 
-for bus in root.findall('NextDepartures'):
-    nextbus = bus.find('AdjustedDepartureTime').text
-    print(nextbus)
-
+    for nextbus in root.iter('AdjustedDepartureTime'):
+        buslist.append(nextbus.text)
+    print(buslist[0:numBuses])
+    return
+    
+getNextBus(3, 'HWDB', '1114')
