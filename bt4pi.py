@@ -16,8 +16,14 @@ def getNextBus(numBuses, routeName, stopCode):
     buslist = []
 
     for nextbus in root.iter('AdjustedDepartureTime'):
-        buslist.append(nextbus.text)
+        removeDate = nextbus.text.split(" ", 1)
+        buslist.append(removeDate[1])
+        
     print(buslist[0:numBuses])
+    outputStr = "The next {} buses for the {} route at stop {} are: ".format(len(buslist), routeName, stopCode)
+    for i in range(len(buslist)):
+        outputStr = outputStr + buslist[i] + " "
+    print (outputStr) 
     return
     
 getNextBus(3, 'HWDB', '1114')
