@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <ScheduledStops>
+    <StopCode>1100</StopCode>
+    <StopName>Newman Library</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1101</StopCode>
+    <StopName>Burruss Hall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1102</StopCode>
+    <StopName>Davidson Hall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1103</StopCode>
+    <StopName>West Campus/Perry Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1104</StopCode>
+    <StopName>Old Security Bldg</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1105</StopCode>
+    <StopName>Stanger/Perry Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1106</StopCode>
+    <StopName>Stanger/Old Turner Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1107</StopCode>
+    <StopName>Hutcheson Hall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1108</StopCode>
+    <StopName>War Memorial Hall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1110</StopCode>
+    <StopName>Squires Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1111</StopCode>
+    <StopName>Alumni Mall Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1112</StopCode>
+    <StopName>Alumni Mall Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1113</StopCode>
+    <StopName>Squires Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1114</StopCode>
+    <StopName>Torgersen Hall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1115</StopCode>
+    <StopName>Wright House</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1116</StopCode>
+    <StopName>Litton Reaves Hall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1117</StopCode>
+    <StopName>Overflow Lot Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1118</StopCode>
+    <StopName>Oak Lane North</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1119</StopCode>
+    <StopName>Oak Lane South</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1120</StopCode>
+    <StopName>Overflow Lot Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1121</StopCode>
+    <StopName>I Lot/Cage Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1122</StopCode>
+    <StopName>Food Science Bldg</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1123</StopCode>
+    <StopName>McComas Hall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1124</StopCode>
+    <StopName>Cassell Coliseum</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1125</StopCode>
+    <StopName>Tennis Courts</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1126</StopCode>
+    <StopName>Harper Hall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1127</StopCode>
+    <StopName>Lane Stadium S Endzone Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1128</StopCode>
+    <StopName>Lane Stadium S Endzone Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1129</StopCode>
+    <StopName>Coliseum Parking Lot Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1130</StopCode>
+    <StopName>Oak Lane Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1131</StopCode>
+    <StopName>Bioinfomatics Bldg</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1132</StopCode>
+    <StopName>Life Sciences 1 Bldg</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1135</StopCode>
+    <StopName>Smithfield Lot</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1200</StopCode>
+    <StopName>Prices Fork/Old Glade Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1201</StopCode>
+    <StopName>Vet School Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1202</StopCode>
+    <StopName>Prices Fork/Plantation Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1203</StopCode>
+    <StopName>Prices Fork/Huntington Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1204</StopCode>
+    <StopName>Hethwood Square on Hethwood</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1205</StopCode>
+    <StopName>Tall Oaks/Hethwood Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1206</StopCode>
+    <StopName>Tall Oaks/Foxhunt Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1207</StopCode>
+    <StopName>Tall Oaks/Heather Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1208</StopCode>
+    <StopName>Tall Oaks/Foxtrail Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1209</StopCode>
+    <StopName>Stroubles Cr</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1210</StopCode>
+    <StopName>Tall Oaks/Foxridge Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1211</StopCode>
+    <StopName>Tall Oaks/Copper Croft Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1212</StopCode>
+    <StopName>Heather/Tall Oaks Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1213</StopCode>
+    <StopName>Heather/Plymouth Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1214</StopCode>
+    <StopName>Heather/Huntington Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1215</StopCode>
+    <StopName>Prices Fork/Huntington Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1216</StopCode>
+    <StopName>Prices Fork/Plantation Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1217</StopCode>
+    <StopName>Vet School Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1218</StopCode>
+    <StopName>Prices Fork/Old Glade Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1220</StopCode>
+    <StopName>Heather/Plymouth Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1221</StopCode>
+    <StopName>Carpenter Blvd/Redd Circle</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1222</StopCode>
+    <StopName>Tall Oaks/Colonial Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1300</StopCode>
+    <StopName>Toms Creek/Winston Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1301</StopCode>
+    <StopName>Gilbert Linkous Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1302</StopCode>
+    <StopName>Toms Creek/Watson Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1303</StopCode>
+    <StopName>Toms Creek/McBryde Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1304</StopCode>
+    <StopName>Broce/Toms Creek Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1305</StopCode>
+    <StopName>Progress/Broce Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1306</StopCode>
+    <StopName>Progress/University Terr Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1307</StopCode>
+    <StopName>Progress/Patrick Henry Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1308</StopCode>
+    <StopName>The Village on Patrick Henry Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1309</StopCode>
+    <StopName>Patrick Henry/Toms Creek Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1310</StopCode>
+    <StopName>University City/Toms Creek Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1311</StopCode>
+    <StopName>Shawnee on University City Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1312</StopCode>
+    <StopName>Shawnee on University City Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1313</StopCode>
+    <StopName>University City/Broce Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1314</StopCode>
+    <StopName>University City/Glade Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1315</StopCode>
+    <StopName>University Mall Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1316</StopCode>
+    <StopName>University Mall Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1317</StopCode>
+    <StopName>University City/Glade Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1318</StopCode>
+    <StopName>University City/Broce Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1319</StopCode>
+    <StopName>Shawnee on University City Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1320</StopCode>
+    <StopName>Shawnee on University City Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1321</StopCode>
+    <StopName>University City/Falcon Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1322</StopCode>
+    <StopName>University City/Toms Creek Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1323</StopCode>
+    <StopName>Patrick Henry/Toms Creek Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1324</StopCode>
+    <StopName>The Village on Patrick Henry Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1325</StopCode>
+    <StopName>Patrick Henry/Progress Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1326</StopCode>
+    <StopName>Progress/Hunt Club Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1327</StopCode>
+    <StopName>Progress/University Terr Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1328</StopCode>
+    <StopName>Progress/Broce Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1330</StopCode>
+    <StopName>Toms Creek/McBryde Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1331</StopCode>
+    <StopName>Toms Creek/Watson Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1332</StopCode>
+    <StopName>Gilbert Linkous Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1333</StopCode>
+    <StopName>Toms Creek/Winston Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1334</StopCode>
+    <StopName>Prices Fork/Turner Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1335</StopCode>
+    <StopName>Old Glade/Glade Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1336</StopCode>
+    <StopName>University Mall Main Entrance</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1337</StopCode>
+    <StopName>Toms Creek/Hunt Club Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1338</StopCode>
+    <StopName>Toms Creek/Hunt Club Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1339</StopCode>
+    <StopName>Progress/Watson Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1340</StopCode>
+    <StopName>Progress/Watson Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1400</StopCode>
+    <StopName>Main/Montgomery Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1401</StopCode>
+    <StopName>Main/Lucas Nbnd S</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1402</StopCode>
+    <StopName>Lucas/Main Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1403</StopCode>
+    <StopName>Lucas/Giles Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1404</StopCode>
+    <StopName>Giles/Northview Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1405</StopCode>
+    <StopName>Giles/Heights Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1406</StopCode>
+    <StopName>Giles/Patrick Henry Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1407</StopCode>
+    <StopName>Patrick Henry/Giles Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1408</StopCode>
+    <StopName>Patrick Henry/Main Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1409</StopCode>
+    <StopName>1500 North Main Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1410</StopCode>
+    <StopName>Main/Giles Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1411</StopCode>
+    <StopName>Main/Red Maple Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1412</StopCode>
+    <StopName>Givens/Main Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1413</StopCode>
+    <StopName>Whipple/Givens Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1414</StopCode>
+    <StopName>Pheasant Run</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1415</StopCode>
+    <StopName>Seneca/Patrick Henry Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1416</StopCode>
+    <StopName>Main/Patrick Henry Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1417</StopCode>
+    <StopName>1200 North Main Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1418</StopCode>
+    <StopName>Main/Northview Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1419</StopCode>
+    <StopName>Main/Lucas Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1420</StopCode>
+    <StopName>Main/Montgomery Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1421</StopCode>
+    <StopName>Main/Kabrich Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1422</StopCode>
+    <StopName>Main/Collegiate Ct Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1423</StopCode>
+    <StopName>Main/Turner Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1424</StopCode>
+    <StopName>Main/Lucas Nbnd N</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1425</StopCode>
+    <StopName>Main/Northview Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1426</StopCode>
+    <StopName>1200 North Main Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1427</StopCode>
+    <StopName>Main/Patrick Henry Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1428</StopCode>
+    <StopName>Whipple/Courtney Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1429</StopCode>
+    <StopName>1500 North Main Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1430</StopCode>
+    <StopName>Patrick Henry/Seneca Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1431</StopCode>
+    <StopName>Main/Turner Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1434</StopCode>
+    <StopName>Patrick Henry/Mary Jane Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1500</StopCode>
+    <StopName>Roanoke/Church Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1501</StopCode>
+    <StopName>Roanoke/Wharton Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1502</StopCode>
+    <StopName>Roanoke/Rutledge Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1503</StopCode>
+    <StopName>Roanoke/Woolwine Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1504</StopCode>
+    <StopName>Harding/Silverleaf Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1506</StopCode>
+    <StopName>Harding/Patrick Henry Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1507</StopCode>
+    <StopName>Harding/Apperson Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1508</StopCode>
+    <StopName>Harding/Vista Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1509</StopCode>
+    <StopName>Harding/Roanoke Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1510</StopCode>
+    <StopName>Ascot/Harding Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1511</StopCode>
+    <StopName>Ascot/Hampton</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1512</StopCode>
+    <StopName>Ascot/Harding Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1513</StopCode>
+    <StopName>Harding/Rucker Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1514</StopCode>
+    <StopName>Harding/Sutton Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1515</StopCode>
+    <StopName>Harding/Apperson Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1516</StopCode>
+    <StopName>Harding/Patrick Henry Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1517</StopCode>
+    <StopName>Harding/Silverleaf Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1518</StopCode>
+    <StopName>Roanoke/Woolwine Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1519</StopCode>
+    <StopName>Roanoke/Rutledge Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1520</StopCode>
+    <StopName>Roanoke/Wharton Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1521</StopCode>
+    <StopName>Roanoke/Penn Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1600</StopCode>
+    <StopName>Main/Roanoke Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1601</StopCode>
+    <StopName>Blacksburg Municipal Building</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1602</StopCode>
+    <StopName>Main/Eheart Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1603</StopCode>
+    <StopName>Main/Eakin Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1604</StopCode>
+    <StopName>Main/Edgewood Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1605</StopCode>
+    <StopName>Main/Airport Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1606</StopCode>
+    <StopName>Main/Faystone Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1607</StopCode>
+    <StopName>Gables Shopping Center</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1608</StopCode>
+    <StopName>Main/Landsdowne Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1609</StopCode>
+    <StopName>Fairfax/Ellett Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1610</StopCode>
+    <StopName>Fairfax/New Kent Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1611</StopCode>
+    <StopName>New Kent/Loudon Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1612</StopCode>
+    <StopName>New Kent/Sussex Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1613</StopCode>
+    <StopName>Grissom/Nellies Cave Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1614</StopCode>
+    <StopName>Marlington/Grissom Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1615</StopCode>
+    <StopName>Marlington/Emerald Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1616</StopCode>
+    <StopName>Marlington/Grayland Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1618</StopCode>
+    <StopName>Main/Landsdowne Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1619</StopCode>
+    <StopName>Main/Ardmore Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1620</StopCode>
+    <StopName>Blacksburg Square</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1621</StopCode>
+    <StopName>Main/Cohee Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1622</StopCode>
+    <StopName>Main/Sunset Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1623</StopCode>
+    <StopName>Main/Graves Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1624</StopCode>
+    <StopName>Main/Hemlock Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1625</StopCode>
+    <StopName>Main/Eakin Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1626</StopCode>
+    <StopName>Main/Clay Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1627</StopCode>
+    <StopName>Main/Lee Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1628</StopCode>
+    <StopName>Main St Post Office</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1635</StopCode>
+    <StopName>Main/Hemlock Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1636</StopCode>
+    <StopName>Industrial Park/Transportation Res Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1637</StopCode>
+    <StopName>Prosperity/Industrial Park Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1638</StopCode>
+    <StopName>Professional Park Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1639</StopCode>
+    <StopName>Main/Dowdy Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1640</StopCode>
+    <StopName>Main/S Hill Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1642</StopCode>
+    <StopName>Main/S Hill Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1643</StopCode>
+    <StopName>Main/Dowdy Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1644</StopCode>
+    <StopName>Main/South Park Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1647</StopCode>
+    <StopName>Industrial Park/Transportation Res Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1648</StopCode>
+    <StopName>Main/King Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1649</StopCode>
+    <StopName>Blacksburg Transit</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1650</StopCode>
+    <StopName>Commerce/Industrial Park Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1651</StopCode>
+    <StopName>Industrial Park/Prosperity Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1700</StopCode>
+    <StopName>Rec Fields Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1701</StopCode>
+    <StopName>Pratt Dr/Garvin Bldg Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1702</StopCode>
+    <StopName>Pratt/Kraft Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1703</StopCode>
+    <StopName>Airport</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1704</StopCode>
+    <StopName>Rec Fields Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1705</StopCode>
+    <StopName>Pratt Dr/Andrews Bldg Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1706</StopCode>
+    <StopName>Kraft/Tech Center Dr Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1707</StopCode>
+    <StopName>Pratt/Kraft Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1708</StopCode>
+    <StopName>Pratt Dr/Garvin Bldg Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1709</StopCode>
+    <StopName>Pratt Dr/Andrews Bldg Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1710</StopCode>
+    <StopName>Kraft/Research Ctr Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1711</StopCode>
+    <StopName>Research Ctr/Rimrock Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1712</StopCode>
+    <StopName>Research Ctr/Rimrock Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1713</StopCode>
+    <StopName>Research Ctr/N Knollwood Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1714</StopCode>
+    <StopName>Kraft/Knowledgeworks 1 Bldg Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1715</StopCode>
+    <StopName>Kraft/Moss Bldg Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1716</StopCode>
+    <StopName>Research Ctr/S Knollwood Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1717</StopCode>
+    <StopName>Lower Chicken Hill Lot Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1800</StopCode>
+    <StopName>New River Valley Mall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1801</StopCode>
+    <StopName>NRV Theatre</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1802</StopCode>
+    <StopName>Wal Mart</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>1803</StopCode>
+    <StopName>LewisGale Hospital Montgomery</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2100</StopCode>
+    <StopName>Montgomery County Govt Center</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2101</StopCode>
+    <StopName>Replublic/Salem Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2104</StopCode>
+    <StopName>Depot/Cambria Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2105</StopCode>
+    <StopName>Aquatic Center</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2108</StopCode>
+    <StopName>Depot/New Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2109</StopCode>
+    <StopName>W Main/Dunkley Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2110</StopCode>
+    <StopName>Montgomery County Courthouse</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2111</StopCode>
+    <StopName>Roanoke/Evans Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2112</StopCode>
+    <StopName>Recreation Center</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2113</StopCode>
+    <StopName>Simmons/Hammes Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2114</StopCode>
+    <StopName>Eletric Way/Hubbell Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2115</StopCode>
+    <StopName>Falling Branch Park and Ride</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2116</StopCode>
+    <StopName>Roanoke/Hungate Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2117</StopCode>
+    <StopName>Roanoke/East Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2118</StopCode>
+    <StopName>Roanoke/Craig Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2119</StopCode>
+    <StopName>Roanoke/Evans Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2120</StopCode>
+    <StopName>Christiansburg Town Hall</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2128</StopCode>
+    <StopName>Oak Tree/Patricks Way Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2129</StopCode>
+    <StopName>Oak Tree/Gold Leaf Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2130</StopCode>
+    <StopName>Independence/Freedom Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2131</StopCode>
+    <StopName>Roanoke/Roberts Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2132</StopCode>
+    <StopName>Northgate Plaza/Cambria</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2133</StopCode>
+    <StopName>1st/Hickok Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2134</StopCode>
+    <StopName>1st/Hickok Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2135</StopCode>
+    <StopName>Phlegar/2nd Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2136</StopCode>
+    <StopName>Phlegar/2nd Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2137</StopCode>
+    <StopName>Highview/Second Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2138</StopCode>
+    <StopName>Highview/Second Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2145</StopCode>
+    <StopName>Clearview/Williams Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2146</StopCode>
+    <StopName>Clearview/Williams Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2147</StopCode>
+    <StopName>Clearview/Kamran Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2148</StopCode>
+    <StopName>Clearview/Kamran Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2149</StopCode>
+    <StopName>Wades/N. Franklin Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2150</StopCode>
+    <StopName>Wades/N. Franklin Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2151</StopCode>
+    <StopName>Oaktree/Providence Way Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2152</StopCode>
+    <StopName>Radford/College Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2153</StopCode>
+    <StopName>Electric Way/Fisher St Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2154</StopCode>
+    <StopName>Simpson Rd/Village Ln Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2155</StopCode>
+    <StopName>Electric Way/Fisher St Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2200</StopCode>
+    <StopName>Conston/Spradlin Farm Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2201</StopCode>
+    <StopName>Farmview/Ridinger Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2202</StopCode>
+    <StopName>Laurel/Sycamore</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2203</StopCode>
+    <StopName>Laurel/Peppers Ferry</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2204</StopCode>
+    <StopName>DMV on Arbor</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2205</StopCode>
+    <StopName>Post Office on Arbor</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2206</StopCode>
+    <StopName>Arbor/Market</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2209</StopCode>
+    <StopName>Shoppers Way Wbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2226</StopCode>
+    <StopName>Shoppers Way Ebnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2301</StopCode>
+    <StopName>North Franklin/Wades Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2302</StopCode>
+    <StopName>North Franklin/Wades Sbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>2303</StopCode>
+    <StopName>North Franklin/Cambria Nbnd</StopName>
+  </ScheduledStops>
+  <ScheduledStops>
+    <StopCode>9105</StopCode>
+    <StopName>Airport Grass Lot Nbnd</StopName>
+  </ScheduledStops>
+</DocumentElement>
