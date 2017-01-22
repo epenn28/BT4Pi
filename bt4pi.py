@@ -19,11 +19,45 @@ def getNextBus(numBuses, routeName, stopCode):
         removeDate = nextbus.text.split(" ", 1)
         buslist.append(removeDate[1])
         
-    print(buslist[0:numBuses])
-    outputStr = "The next {} buses for the {} route at stop {} are: ".format(len(buslist), routeName, stopCode)
-    for i in range(len(buslist)):
-        outputStr = outputStr + buslist[i] + " "
+    if not buslist:
+        outputStr = "Sorry, I didn't find any buses for that route at the time."
+    else:
+        outputStr = "The next {} buses for the {} route at stop {} are: ".format(numBuses, routeName, stopCode)
+        for i in range(numBuses-1):
+            outputStr = outputStr + buslist[i] + ", "
+        outputStr = outputStr + buslist[numBuses] + "."
     print (outputStr) 
+
     return
     
-getNextBus(3, 'HWDB', '1114')
+def checkBus(routeName, stopCode):
+
+    getRoutes = requests.post("http://216.252.195.248/webservices/bt4u_webservice.asmx/GetScheduledRoutes", data = {'stopCode': ''})
+    getStops = requests.post("http://216.252.195.248/webservices/bt4u_webservice.asmx/GetScheduledStopCodes", data = {'routeShortName': routeName})
+    
+    routeRoot = ET.fromstring(getRoutes.text)
+    stopRoot = ET.fromstring(getStops.text)
+    
+    routeList = []
+    stopList = []
+        
+    for busRoute in routeRoot.iter('RouteShortName'):
+        routeList.append(busRoute.text)
+        
+    for busStop in stopRoot.iter('StopCode'):
+        stopList.append(busStop.text)
+        
+    if routeName in routeList:
+        if stopCode in stopList:
+            print("{} stop {} is valid".format(routeName, stopCode))
+        else:
+            print("Stop {} is not a valid stop for the {} route".format(stopCode, routeName))
+    else:
+        print("The {} route is not currently running!".format(routeName))
+    
+    return
+    
+getNextBus(3, 'HWD', '1206')
+checkBus('HWDB', '1114')
+checkBus('HWD', '1206')
+checkBus('HWD', '1234')
